@@ -16,8 +16,8 @@
             <li><a href="#">Page 2</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-            <li><a href="register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-            <li><a href="#/login"><span class="glyphicon glyphicon-log-in"></span> Sign in</a></li>
+            <li><a href="/register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+            <li><a href="/login"><span class="glyphicon glyphicon-log-in"></span> Sign in</a></li>
             </ul>
         </div>
     </nav>

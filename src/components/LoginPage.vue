@@ -1,7 +1,7 @@
 <template>
     <div class="login-form">
         <form action="" method="post" id="loginForm">
-            <h2 class="text-center">Log in</h2>
+            <h2 class="text-center">Login</h2>
             <div class="form-group">
                 <input type="text" name="lemail" id="lemail" class="form-control validate[custom[email]]" placeholder="Email" required="required">
             </div>
